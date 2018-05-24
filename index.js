@@ -1,5 +1,5 @@
 // write your code below!
-happyHolidays(string)
+happyHolidays()
 {
-  return string 
+  return "Happy holidays!"
 }
