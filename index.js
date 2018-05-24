@@ -1,5 +1,6 @@
 // write your code below!
 happyHolidays(string)
 {
-  return string("Happy holidays!")
+  string = 'Happy holidays!'
+  return string 
 }
